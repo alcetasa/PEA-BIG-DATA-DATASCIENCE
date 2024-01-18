@@ -1,0 +1,15 @@
+CREACION E INSTALACION DE UN ENTORNO VIRTUAL
+
+- Instalar VirtualEnv para creacion de entornos virtuales
+	pip install virtualenv
+
+- Crear el entorno virutal en alguna direccion que se quiera 
+  (se crea generalmente en el directorio del proyecto)
+	python -m venv D:/Codes/venv
+
+- Activar el entorno virtual
+	.\venv\Scripts\activate
+
+- Correr lo siguiente para el entorno virtual 
+  (requirements.txt debe de estar en el directorio donde se estan ejecutando lo comandos)
+	pip install -r requirements.txt
