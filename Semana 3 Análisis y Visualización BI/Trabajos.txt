@@ -1,0 +1,15 @@
+
+Tarea - Examen Parcial.pdf Tarea - Examen Parcial.pdf
+Crear tres vistas nuevas y un dashboard.
+Las vistas deben responder a la especificación del archivo. 
+En resumen son:
+Un gráfico resumen tipo barras.
+Un diagrama de correlación.
+Un gráfico de barras horizontales.
+El archivo se debe entregar como tipo twbx con el nombre "Apellido_Nombre_Examen_Parcial.twbx".
+
+Tarea - Trabajo Aplicativo.pdf Tarea - Trabajo Aplicativo.pdf
+Crear dos vistas nuevas y un dashboard.
+Las vistas deben responder a la especificación del archivo. 
+El archivo se debe entregar como tipo twb o twbx bajo la nomenclatura Apellido_Nombre_Examen_Parcial.twbx o también puede ser enviado en un documento con capturas de imágenes. En este último caso deben enviar también las imágenes de las fórmulas creadas.
+

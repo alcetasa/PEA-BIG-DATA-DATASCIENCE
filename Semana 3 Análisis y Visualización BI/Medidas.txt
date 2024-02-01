@@ -1,0 +1,49 @@
+Cantidad de Clientes distintos
+COUNTD([Nombre de Cliente])
+
+Dias Envio Real
+DATEDIFF('day',[Fecha de Orden],[Fecha de Envío])
+
+Ganancia a nivel de orden
+{ FIXED[ID de Orden]:
+    SUM([Ganancia])
+}
+
+Ratio de Ganancia
+sum([Ganancia])/sum([Ventas])
+
+Ratio de Ganancia:2
+SUM([Ganancia]) / SUM([Ventas])
+
+
+ES Orden Rentable?
+IF SUM ([Ganancia])>0 THEN "Orden Rentable"
+ELSE "Orden No Rentable"
+END
+
+Es Orden Rentable?por cliente
+IF {FIXED [ID de Cliente]:SUM([Ganancia])}>0 THEN "Orden Rentable"
+ELSE "No Rentable"
+END
+
+Dias de Envio Real
+DATEDIFF('day',[Fecha de Orden],[Fecha de Envío])
+
+Cantidad de 
+COUNTD([Nombre de Cliente])
+
+Dias Envio Real
+DATEDIFF('day',[Fecha de Orden],[Fecha de Envío])
+
+Ganancia a nivel de orden
+{
+    FIXED[ID de Orden]:
+    SUM([Ganancia])
+}
+
+
+Ratio de Ganancia
+sum([Ganancia])/sum([Ventas])
+
+Ratio de Ganancia:2
+SUM([Ganancia]) / SUM([Ventas])

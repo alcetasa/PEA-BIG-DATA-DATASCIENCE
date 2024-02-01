@@ -1,0 +1,38 @@
+###########################################################################################################################
+Tabajo aplicativo 
+###########################################################################################################################
+Primera vista :Cantidad de Clientes
+Mostrar la  distribución de clientes por segmento con base en la suma de ganancias del total
+de sus pedidos, si son positivas el cliente es considerado rentable.
+
+Fila Segmento
+columna Cantidad de clientes 
+Color : Es Orden Rentable ?por cliente
+
+
+Segunda vista: Ventas mensuales por Orden
+Mostrar la evolución mensual de ventas a nivel de orden 
+El color aplicado para  cada marca debe ser verde para aquellas órdenes con ganancia positiva. Incluir un tooltip con la información de la selección.
+
+Filas : Suma(Ventas)
+Columnas: Mes (click derecho continuo
+Etiqueta : Id Orden 
+Color: Es Orden Rentable?por cliente
+###########################################################################################################################
+
+Primera vista: Resumen por Categoría
+
+Crear un resumen por categoría de las  principales variables que incluyan las ventas, 
+cantidad de productos diferentes,  venta por cada producto diferente, cantidad y ganancia.
+
+Filas :  Nombres de medidas Valores de Mediadas
+Columnas :  Categoria 
+insertar las variables en la misma columna
+
+Segunda vista: Cantidad vs Ganancia por Producto
+
+
+Crear un gráfico de correlación de cantidad y ganancia que muestre una marca por cada producto. El color debe estar determinado por el ratio de ganancia como un color divergente de rojo a verde con límites fijos de -25% a 25%.
+
+
+
