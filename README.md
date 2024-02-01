@@ -1,10 +1,9 @@
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Módulo 1: Aprendizaje Supervisado</title>
 </head>
 <body>
+
 
   <section>
     <h2>Modelo de regresión lineal</h2>
