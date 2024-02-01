@@ -2,7 +2,7 @@
 
 ## Módulo 1: Aprendizaje Supervisado
 
-Este módulo se centra en técnicas de aprendizaje supervisado para modelar datos.
+Este módulo se centra en técnicas de aprendizaje supervisado,no supervisado y por refuerzo para modelar datos.
 
 - **Modelo de regresión lineal:** Descripción del modelo de regresión lineal.
 - **Modelo de regresión con regularización:** Modelos Ridge, Lasso y ElasticNet.
