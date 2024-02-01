@@ -7,7 +7,6 @@ Este módulo se centra en técnicas de aprendizaje supervisado para modelar dato
 - **Modelo de regresión lineal:** Descripción del modelo de regresión lineal.
 - **Modelo de regresión con regularización:** Modelos Ridge, Lasso y ElasticNet.
 - **Aprendizaje supervisado para clasificación:** Enfoque en problemas de clasificación.
-- *Agregar más temas aquí...*
 
 ## Módulo 2: Análisis y Visualización BI con Tableau
 
