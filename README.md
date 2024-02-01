@@ -1,23 +1,28 @@
-Modulo1 : Aprendizaje Supervisado
-*Modelo de regresión lineal
-*Modelo de regresión con regularización
-  (Rigde, Lasso y EslasticNet)
-*Aprendizaje supervisado para clasificación
-*Modelo de regresión logística
-*Árboles de decisión
-*Ensemble learning (Random Forest,
-  XGboost, LightGBM, CatBoost)
-*Validación de modelos
-*Métricas de evaluación para clasificación y la regresión Cross validation
-*Optimización de modelos
-*Aprendizaje no supervisado
-*Jerárquicos, K-Means, PAM, Affinity
-*Propagation, DBSCAN
-*Reglas de Asociación
-*Tópicos Adicionales
-*Modelos de series de tiempo
-*Sistemas de Recomendaciones
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Módulo 1: Aprendizaje Supervisado</title>
+</head>
+<body>
 
+  <section>
+    <h2>Modelo de regresión lineal</h2>
+    <p>Descripción del modelo de regresión lineal...</p>
+  </section>
 
-Modulo2 :
- Análisis y Visualización BI con Tableau
+  <section>
+    <h2>Modelo de regresión con regularización</h2>
+    <p>Descripción de los modelos de regresión con regularización (Rigde, Lasso y EslasticNet)...</p>
+  </section>
+
+  <!-- Otros temas del Módulo 1 -->
+
+  <section>
+    <h2>Módulo 2: Análisis y Visualización BI con Tableau</h2>
+    <p>Descripción del módulo de análisis y visualización con Tableau...</p>
+  </section>
+
+</body>
+</html>
