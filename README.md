@@ -1,6 +1,6 @@
 # PEA BIG DATA & DATASCIENCE
 
-## Módulo 1: Aprendizaje Supervisado
+## Módulo 1: Machine Learning for Data Science y Soluciones
 
 Este módulo se centra en técnicas de aprendizaje supervisado,no supervisado y por refuerzo para modelar datos.
 
