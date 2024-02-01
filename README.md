@@ -1,26 +1,23 @@
+# Cursos de Machine Learning y BI
 
-<head>
-  <title>Módulo 1: Aprendizaje Supervisado</title>
-</head>
-<body>
+## Módulo 1: Aprendizaje Supervisado
 
+Este módulo se centra en técnicas de aprendizaje supervisado para modelar datos.
 
-  <section>
-    <h2>Modelo de regresión lineal</h2>
-    <p>Descripción del modelo de regresión lineal...</p>
-  </section>
+- **Modelo de regresión lineal:** Descripción del modelo de regresión lineal.
+- **Modelo de regresión con regularización:** Modelos Ridge, Lasso y ElasticNet.
+- **Aprendizaje supervisado para clasificación:** Enfoque en problemas de clasificación.
+- *Agregar más temas aquí...*
 
-  <section>
-    <h2>Modelo de regresión con regularización</h2>
-    <p>Descripción de los modelos de regresión con regularización (Rigde, Lasso y EslasticNet)...</p>
-  </section>
+## Módulo 2: Análisis y Visualización BI con Tableau
 
-  <!-- Otros temas del Módulo 1 -->
+Este módulo aborda técnicas de Business Intelligence y visualización de datos utilizando Tableau.
 
-  <section>
-    <h2>Módulo 2: Análisis y Visualización BI con Tableau</h2>
-    <p>Descripción del módulo de análisis y visualización con Tableau...</p>
-  </section>
+- **Introducción a Tableau:** Conceptos básicos y herramientas.
+- **Creación de Dashboards:** Diseño de tableros interactivos.
+- **Análisis de Datos:** Exploración y descubrimiento de patrones.
+- *Agregar más temas aquí...*
 
-</body>
-</html>
+---
+
+&copy; 2024 Cursos de Machine Learning y BI
