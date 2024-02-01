@@ -15,8 +15,7 @@ Este módulo aborda técnicas de Business Intelligence y visualización de datos
 - **Introducción a Tableau:** Conceptos básicos y herramientas.
 - **Creación de Dashboards:** Diseño de tableros interactivos.
 - **Análisis de Datos:** Exploración y descubrimiento de patrones.
-- *Agregar más temas aquí...*
+
 
 ---
 
-&copy; 2024 Cursos de Machine Learning y BI
