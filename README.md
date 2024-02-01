@@ -1,4 +1,4 @@
-# Cursos de Machine Learning y BI
+# PEA BIG DATA & DATASCIENCE
 
 ## Módulo 1: Aprendizaje Supervisado
 
