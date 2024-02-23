@@ -1,0 +1,327 @@
+Temas
+
+Procesos de Comprensión Analítica
+
+Entendimiento de Negocio
+Recolección de Datos
+Generación de Análisis
+Medición de KPIs
+
+
+Procesos de Comprensión Analítica
+
+DATOS INSIGHT ACCIÓN IMPACTO
+
+ADQUIRIR ORGANIZAR ANALIZAR ENTREGAR MEDIR
+
+Las etapas del ciclo de vida de TDSP pueden integrarse con entregables y puntos de control específicos
+
+
+Business Understanding
+•Project Objective
+•Data, Target & Feature Definition
+•Data DictionaryData
+
+Data acquisition and understanding
+
+Modeling
+
+Deployment
+
+
+Requisitos,recopilación, comprensión, preparación de Datos
+
+Compresion del negocio
+Enfoque analitico
+Requisito de datos
+Recopilacion de datos
+Comprension de datos
+Preparacion de datos
+Modelado
+Evaluacion 
+Inplementacion
+Retroalimentacion
+
+
+Modelo de Datos Complejo
+################################
+Entendimiento de los datos
+
+
+IMPLICA ACCEDER A LOS DATOS Y EXPLORARLOS CON LA AYUDA DE TABLAS Y GRÁFICOS QUE SE PUEDEN
+ORGANIZAR.
+
+SE SUELEN UTILIZAR ESTADÍSTICAS DESCRIPTIVAS Y TÉCNICAS DE VISUALIZACIÓN PARA COMPRENDER
+EL CONTENIDO DE LOS DATOS, EVALUAR SU CALIDAD Y DESCUBRIR INSIGHTS INICIALES SOBRE ELLOS.
+
+Entendimiento de los datos
+Recopilación de Datos
+Descripción de los datos
+Explorar datos
+Verificar la calidad de los datos
+
+################################
+Recopilación de Datos
+
+Se reúnen los recursos de datos disponibles (estructurados, no estructurados y semiestructurados) y relevantes para el dominio del problema.
+Al incorporar más datos, los modelos predictivos pueden representar mejor los eventos raros, como la incidencia de una enfermedad o un fallo del sistema
+################################
+La procedencia de los datos
+
+Datos existentes. Incluye una amplia variedad de datos, como datos transaccionales, datos de encuesta, registros
+Web, etc. Tener en cuenta si los datos existentes son suficientes para adaptarse a las necesidades y objetivos a
+cumplir.
+
+Datos adquiridos. ¿Cómo organización se utilizan datos adicionales, como datos demográficos? Si no se utiliza, hay que considerar si son necesarios.
+
+
+Datos adicionales. Si las fuentes anteriores no satisfacen las necesidades, es posible que se necesite realizar encuestas o realizar seguimientos adicionales para
+servir de complemento a los repositorios de datos actuales.
+
+################################
+Informe inicial de recolección de datos
+
+Describa todos los diversos datos utilizados para el proyecto e incluya los
+requisitos de selección para obtener datos más detallados.
+
+
+El informe de recopilación de datos también debe definir si algunos atributos son relativamente más importantes que otros.
+
+Cualquier evaluación de la calidad de los datos debe hacerse no solo de las fuentes de datos individuales sino también de los datos que resultan de la
+fusión de las fuentes de datos.
+
+Debido a inconsistencias entre las fuentes, los datos combinados pueden presentar problemas que no existen en las fuentes de datos individuales.
+
+################################
+Planificación de requerimientos de datos	
+
+Planificarqué información se necesita (p. Ej., Solo para atributos dados o información adicional específica).
+Comprobar si toda la información necesaria (para resolver los objetivos de minería de datos) está realmente disponible
+
+################################
+Criterio de selección
+
+Especifique los criterios de selección (por ejemplo, ¿qué atributos son necesarios para los objetivos de minería de datos especificados? 
+¿Qué atributos se han identificado como irrelevantes? ¿Cuántos atributos podemos manejar con las técnicas elegidas?).
+
+Seleccionar tablas / archivos de interés.
+
+Seleccionar datos dentro de una tabla / archivo.
+
+Piense en cuánto tiempo debe usar un historial (por ejemplo, incluso si hay 18 meses de
+
+
+Inserción de datos
+
+¿Quéatributos (columnas) de la base de datos parecen más prometedores?
+¿Qué atributos no parecen relevantes y se pueden excluir?
+¿Existen datos suficientes para obtener conclusiones generales o realizar predicciones precisas?
+datos disponibles, solo se necesitarán 12 meses para el ejercicio).
+¿Se dispone de atributos suficientes para el método de modelado?
+Recuerde que algunos conocimientos sobre los datos pueden estar disponibles de fuentes no electrónicas (por ejemplo, de personas, texto impreso, etc.).
+¿Se está fusionando varios orígenes de datos? En caso afirmativo, ¿existen áreas que puedan plantear problemas al fusionar?
+Si los datos contienen entradas de texto libre, ¿debemos codificarlos para modelar o queremos agrupar entradas específicas?
+¿Cómo se pueden adquirir los atributos faltantes?
+¿Cómo podemos extraer mejor los datos?
+
+################################
+Ejemplo de venta en línea: recopilación inicial de datos
+
+Registros Web. Los registros de acceso brutos contienen toda la información de cómo los clientes navegan por el sitio Web. Es
+necesario eliminar referencias a archivos de imágenes y entradas no informativas en los registros Web
+como parte del proceso de preparación de datos
+
+Base de datos de productos. Los atributos de productos pueden ser de gran utilidad cuando determine productos “relacionados”. Es
+necesario asignar la información de productos a los pedidos correspondientes.
+
+Adquisición de datos. Si un cliente envía un pedido, se guarda toda la información relativa a ese pedido.
+Los pedidos de la base de datos de adquisiciones se deben asignar a las sesiones correspondientes en los registros Web..
+
+
+Base de datos de clientes. Esta base de datos contiene información adicional recopilada de clientes registrados. Los registros no son
+completos ya que muchos clientes no completan los cuestionarios. Es necesario asignar la información de
+los clientes a las adquisiciones y sesiones correspondientes en los registros Web.
+
+
+Descripción de los datos
+
+Existen muchas formas de describir datos, pero la mayoría de datos se centra en la cantidad
+y calidad de los datos .
+
+Tipos de valores. Los datos pueden incluir una variedad de formatos, como numérico,
+categórico (cadena) o Booleano (verdadero/falso).
+
+Cantidad de datos. Los grandes conjuntos de datos pueden producir modelos más precisos,
+pero también pueden aumentar el tiempo de procesamiento.
+
+Esquemas de codificación. Con frecuencia, los valores de la base de datos son representaciones
+de características como género o tipo de producto.
+
+Informe de descripción de datos
+
+El formato de los datos
+La cantidad de datos (por ejemplo, el número de registros y campos dentro de cada tabla)
+
+La calidad de datos
+
+Las identidades de los campos
+
+Cualquier otra característica de superficie que se haya descubierto
+
+IDENTIFICAR DATOS Y MÉTODO DE CAPTURA.
+ACCEDER A FUENTES DE DATOS.
+
+UTILIZAR ANÁLISIS ESTADÍSTICOS SI CORRESPONDE.
+
+TABLAS DE INFORMES Y SUS RELACIONES.
+
+VERIFICAR EL VOLUMEN DE DATOS, NÚMERO DE MÚLTIPLOS, COMPLEJIDAD.
+
+Tipos de atributos y valores
+
+Verificar la accesibilidad y disponibilidad de atributos.
+Verifique los tipos de atributos (numéricos, simbólicos, taxonómicos, etc.)
+Comprobar rangos de valores de atributos.
+Analizar correlaciones de atributos.
+Comprender el significado de cada atributo y valor de
+atributo en términos comerciales.
+Analizar estadísticas básicas y relacionar los resultados
+con su significado en términos comerciales.
+Decidir si el atributo es relevante para el objetivo específico de minería de datos
+
+################################################################################
+Ejemplo de venta en línea: descripción de los datos
+
+Existen multitud de registros y atributos para procesar en una aplicación de minería Web.
+
+Aunque el área de negocio que realice el proyecto de minería de datos haya limitado el estudio inicial unos 30.000 clientes aproximadamente, que se hayan
+registrado en el sitio, aún quedan millones de registros en los registros Web.
+
+La mayoría de tipos de valor de estos orígenes de datos son simbólicos, ya sean fechas y horas, accesos de páginas Web o respuestas a preguntas de opciones
+múltiples del cuestionario de registro.
+
+Algunas de estas variables se utilizarán para crear nuevas variables numéricas, como el número de páginas Web visitadas y el tiempo que se ha permanecido
+en el sitio Web.
+################################################################################
+Ejemplo de venta en línea: descripción de los datos
+
+Las pocas variables numéricas existentes en los conjuntos de datos incluyen el número de
+cada producto solicitado, la cantidad gastada durante una compra y las especificaciones de
+peso y dimensiones de la base de datos del producto.
+
+Los esquemas de codificación de los diferentes orígenes de datos se solapan muy poco, porque los
+orígenes de datos contienen atributos muy diferentes. Las únicas variables que se solapan
+son “claves”, como las ID de clientes y códigos de productos.
+
+Estas variables deben tener esquemas de codificación idénticos desde un origen de los
+datos a otro; de otro modo será imposible fundir los orígenes de datos.
+
+Deberá realizar una preparación adicional de los datos para volver a codificar estos campos
+clave para fusionar.
+
+####################
+Explorar datos
+
+Tarea que aborda las preguntas de minería de datos que pueden cubrirse utilizando técnicas de consulta, visualización e informes.
+Los análisis pueden abordar directamente los objetivos de minería de datos.
+
+Pueden contribuir o refinar la descripción de los datos y los informes de calidad, y alimentar la transformación y otros pasos de preparación
+de datos necesarios antes de que pueda realizarse un análisis adicional.
+
+
+Informe de exploración de datos (I)
+
+Describa los resultados de esta tarea, incluidos los primeros hallazgos o
+hipótesis iniciales y su impacto en el resto del proyecto.
+
+
+El informe también puede incluir gráficos y diagramas que indican características de datos o apuntan a subconjuntos de datos
+interesantes que merecen un examen más  detallado.
+
+Informe de exploración de datos (II)
+
+¿Quétipo de hipótesis sobre los datos ha formulado?
+¿Quéatributos parecen ser prometedores de cara a futuros análisis?
+¿Ha realizado exploraciones que revelen nuevas características de los datos?
+¿En quéforma han cambiado estas exploraciones su hipótesis inicial?
+¿Puede identificar subconjuntos concretos de datos para un uso posterior?
+Vuelva a comprobar sus objetivos de minería de datos. ¿Esta exploración ha modificado sus objetivos?
+
+
+ANALICE LAS PROPIEDADES DE LOS ATRIBUTOS INTERESANTES EN DETALLE (POR EJEMPLO,
+ESTADÍSTICAS BÁSICAS, SUBPOBLACIONES INTERESANTES)
+IDENTIFICAR LAS CARACTERÍSTICAS DE LAS SUBPOBLACIONES.
+
+USAR GRÁFICOS DE VISUALIZACIÓN, HISTOGRAMAS, ETC. PARA REVELAR INCONSISTENCIAS EN LOS DATOS.
+
+###################################################
+Suposiciones de forma para análisis futuros
+
+Considerar y evaluar la información y los hallazgos en el informe de descripciones de datos.
+
+Formar una hipótesis e identificar acciones.
+
+Transforme la hipótesis en un objetivo de minería de datos, si es posible 
+
+Aclare los objetivos de minería de datos o hágalos más precisos. Una búsqueda "ciega" no es
+necesariamente inútil, pero es preferible una búsqueda más dirigida hacia los objetivos
+comerciales.
+
+Realizar análisis básicos para verificar la hipótesis.
+
+###########################################
+Verificar la calidad de los datos (I)
+
+La mayoría de los datos contienen errores de codificación, valores perdidos u otro tipo de incoherencias que hacen que los análisis resulten difíciles en algunas ocasiones.
+Una forma de evitar posibles problemas es realizar un análisis de calidad de los datos disponibles antes de proceder al modelado.
+###########################################
+Verificar la calidad de los datos (II)
+
+¿Están los datos completos (cubre todos los casos requeridos)?
+¿Es correcto o contiene errores?
+Si hay errores, ¿qué tan comunes son?
+¿Faltan valores en los datos?
+Si es así, ¿cómo están representados, ¿dónde ocurren y qué tan comunes son?
+
+Verificación de calidad de datos
+
+Los datos perdidos incluyen valores vacíos o codificados como sin respuesta (como
+null, ?, o 999).
+
+Los errores de datos suelen ser errores tipográficos cometidos al introducir los
+datos.
+
+Los errores de mediciones incluyen datos que se introducen correctamente, pero se
+basan en un esquema de mediciones incorrecto.
+
+Las incoherencias de codificación suelen incluir unidades no estándar de medidas o
+valores incoherentes, como el uso de “M” y “masculino” para expresar el genero.
+
+Los metadatos erróneos incluyen errores entre el significado aparente de un campo
+incluido en un nombre o definición de campo.
+
+#########################
+Revisar claves, atributos
+
+VERIFIQUE LA COBERTURA (POR EJEMPLO, SI TODOS LOS VALORES POSIBLES ESTÁN REPRESENTADOS)
+VERIFICAR KEYS 
+VERIFIQUE QUE LOS SIGNIFICADOS DE LOS ATRIBUTOS Y LOS VALORES CONTENIDOS COINCIDAN
+IDENTIFICAR ATRIBUTOS FALTANTES Y CAMPOS EN BLANCO.
+ESTABLECER EL SIGNIFICADO DE LOS DATOS FALTANTES
+VERIFIQUE LOS ATRIBUTOS CON DIFERENTES VALORES QUE TIENEN SIGNIFICADOS SIMILARES (POR EJEMPLO, BAJO EN GRASAS, DIETA)
+
+
+Calidad de datos en archivos planos
+Si los datos se almacenan en archivos planos, verifique qué delimitador se usa y si se usa de manera consistente dentro de todos los atributos
+Si los datos se almacenan en archivos planos, verifique el número de campos en cada registro para ver si coinciden
+
+Ejemplo de venta en línea: Exploración de datos
+
+La verificación de la calidad de los datos se suele realizar durante el curso de los procesos de descripción y exploración. Algunos de los problemas detectados por el negocio suelen incluir:
+Datos perdidos. Los datos perdidos conocidos incluyen cuestionarios sin responder por parte de algunos usuarios registrados. Sin la información extra que proporciona este cuestionario, estos clientes se pueden omitir en algunos de los siguientes modelos.
+Errores de datos. La mayoría de los orígenes de datos se generan automáticamente, por lo que no es un problema grave. Los errores tipográficos de la base de datos de producto se pueden detectar durante el proceso de exploración.
+Errores de mediciones. El origen principal de los errores de mediciones es el cuestionario. Si alguno de los elementos no estácomplementado correctamente, es posible que no proporcione la información que el negocio espera obtener. De nuevo, durante el proceso de exploración, es importante prestar una especial atención a los elementos que tienen una distribución inusual de las respuestas.
+
+
+
+

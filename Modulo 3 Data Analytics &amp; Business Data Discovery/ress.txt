@@ -1,0 +1,117 @@
+Fase: Entendimiento de Negocio
+
+Esta fase inicial se enfoca en comprender los objetivos y requisitos del proyecto desde una
+perspectiva empresarial, en lugar de un punto de vista técnico.
+
+El proceso de comprensión empresarial comienza con una idea de negocio, que se resuelve
+con una solución de Data & Analytics, que sienta las bases para la resolución exitosa del
+problema comercial.
+
+Los patrocinadores de negocio que necesitan la solución analítica desempeñan un papel
+fundamental en esta etapa al definir el problema, los objetivos del proyecto y los requisitos de la
+solución desde una perspectiva comercial.
+
+Cada proyecto comienzan con la comprensión del negocio, independientemente de su
+tamaño.
+
+Para garantizar el éxito de cada proyecto, los promotores deben participar mientras dure el
+proyecto para proporcionar experiencia en el dominio empresarial, revisar los hallazgos
+intermedios y garantizar que el trabajo siga su curso para generar la solución deseada.
+
+Se genera un plan de proyecto preliminar diseñado para lograr los objetivos.
+
+
+1. Determinación de los objetivos negocio
+
+El primer objetivo es comprender a fondo, desde una perspectiva comercial, lo que el negocio realmente quiere lograr.
+A menudo, el negocio tiene muchos objetivos competitivos y limitaciones que deben equilibrarse adecuadamente.
+Se debe descubrir factores importantes al comienzo del proyecto que pueden influir en el resultado final.
+Una consecuencia probable de descuidar este paso sería gastar un gran esfuerzo para producir las respuestas 
+correctas a las preguntas incorrectas.
+
+¿Cómo Determinar los Objetivos de Negocio?
+Comenzar a recopilar información acerca de la situación comercial actual.
+Registrar los objetivos comerciales específicos que decidan los gerentes.
+Consensuar los criterios que se utilizarán para determinar el rendimiento del 
+proceso desde una perspectiva comercial.
+
+################################################################
+Antecedentes
+
+Recopilar la información que se conoce sobre la situación comercial de la organización al comienzo del
+proyecto.
+
+Sirven para identificar y conocer más de cerca los objetivos comerciales que se deben alcanzar.
+Sirven para identificar los recursos,tanto humanos como materiales, que se pueden usar o necesitar
+durante el curso del proyecto.
+
+################################################################
+Objetivos de negocio
+
+Describir el objetivo principal del negocio, desde una perspectiva negocio.
+
+Describa informalmente el problema a resolver.
+
+Especificar todas las preguntas comerciales con la mayor precisión posible.
+
+Especificar los beneficios esperados en términos de negocio (comerciales,operativos, etc.).
+
+Tener cuidado de establecer objetivos inalcanzables:
+hacerlos lo más realistas posible.
+
+
+Objetivos de negocio
+
+Asignación de recursos
+Segmentación de clientes
+Benchmarking comparativo
+Orientado al cliente
+
+
+Asignación de recursos
+Previsiones precisas para asignar recursos tales como:
+
+Personal
+Presupuesto
+Inventario para obtener un resultado de calidad y mantener los costos bajos.
+
+
+Segmentación de clientes
+
+Identificar segmentos de clientes más granulares para personalizar la experiencia de estos y, por lo
+tanto, mejorar las relaciones de conversión.
+
+Clientes potenciales.
+
+Descontentos o felices.
+
+
+
+Benchmarking comparativo
+
+Crear puntos de referencia comparativos en un grupo de individuos o grupos de trabajo para
+encontrar valores atípicos positivos y negativos
+
+Aprender de lo positivo y remediar lo negativo.
+
+Orientado al cliente
+
+*Todas las relaciones se basan en la confianza, especialmente las relaciones comerciales.
+Externalizar la analítica a los clientes,socios y proveedores.
+
+*Incrustar análisis en procesos comerciales externos para crear rigidez.
+
+
+
+
+Criterios de éxito empresarial
+Describir los criterios para un resultado exitoso o útil para el proyecto desde el punto de vista
+empresarial.
+Documentar los criterios de rendimiento del proyecto.
+
+Asegurar de que cada objetivo comercial tiene un criterio de rendimiento relacionado
+
+Especificar los criterios de éxito empresarial (por ejemplo, mejorar la tasa de respuesta en una campaña de correo en un 10 por ciento).
+
+Identificar quién evalúa los criterios de éxito.
+
