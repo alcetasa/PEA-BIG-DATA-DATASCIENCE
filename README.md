@@ -12,8 +12,7 @@ Modelo de regresión logística
 Árboles de decisión
 Ensemble learning (Random Forest, XGboost, LightGBM, CatBoost)
 - **Validación de modelos**
-Métricas de evaluación para clasificación y la regresión
-Cross validation
+Métricas de evaluación para clasificación y la regresión Cross validation
 Optimización de modelos
 - **Aprendizaje no supervisado**
 Jerárquicos, K-Means, PAM, Affinity
@@ -37,7 +36,7 @@ Este módulo aborda técnicas de Business Intelligence y visualización de datos
 - **Situación actual de proyectos big data &analytics**
 - **Situación futura big data y AI, machinelearning**
 - **¿Qué es ser data driven?**
-- **Procesos de comprensión analítica **
+- **Procesos de comprensión analítica**
 - **Entendimiento de negocio**
 - **Recolección de datos**
 - **Generación de análisis**
